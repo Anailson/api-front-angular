@@ -1,0 +1,7 @@
+
+[
+  { "_id":"1", "nome":"Angular", "categoria": "front-end"},
+  { "_id":"2", "nome":"Java Spring boot", "categoria": "back-end"},
+  { "_id":"3", "nome":"SQL Server", "categoria": "Banco de dados"}
+]
+
